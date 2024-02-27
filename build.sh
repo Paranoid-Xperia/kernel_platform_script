@@ -37,6 +37,8 @@ export EXT_MODULES="
   ../vendor/qcom/opensource/wlan/qcacld-3.0/.kiwi_v2
   ../vendor/qcom/opensource/bt-kernel
   ../vendor/nxp/opensource/driver
+  ../vendor/qcom/opensource/sony/sony_camera
+  ../vendor/qcom/opensource/sony/lxs_ts
 "
 
 export LTO=full
